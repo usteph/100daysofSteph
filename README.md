@@ -11,3 +11,8 @@ Tier 2:
 
 Tier 3: 
 ![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-issue_articulator-purple?link=https%3A%2F%2Fgithub.com%2FINN-SFU%2F100daysofversioncontrol%2Fissues%2F10)
+
+Milestones: 
+![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-20_commits_strike-white)
+![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-30_days-grey)
+![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-30_days-grey)

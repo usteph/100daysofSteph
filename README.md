@@ -6,4 +6,8 @@ Tier 1:
 ![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-gitmoji_user-blue?link=https%3A%2F%2Fgithub.com%2FINN-SFU%2F100daysofversioncontrol%2Fissues%2F2)
 ![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-issue_assigner-blue?link=https%3A%2F%2Fgithub.com%2FINN-SFU%2F100daysofversioncontrol%2Fissues%2F4)
 
+Tier 2: 
+![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-PR_wizard-orange?link=https%3A%2F%2Fgithub.com%2FINN-SFU%2F100daysofversioncontrol%2Fissues%2F6)
 
+Tier 3: 
+![Static Badge](https://img.shields.io/badge/INN_100_Days_of_Version_Control-issue_articulator-purple?link=https%3A%2F%2Fgithub.com%2FINN-SFU%2F100daysofversioncontrol%2Fissues%2F10)
